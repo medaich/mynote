@@ -119,5 +119,5 @@ button {
 
 input {
   padding: 0 1rem;
-  width: 100%;
+  min-width: 100%;
 }
