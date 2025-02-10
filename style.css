@@ -116,3 +116,7 @@ button {
   color: var(--white);
   font-weight: bold;
 }
+
+input {
+  padding: 0 auto;
+}
